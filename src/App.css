@@ -22,7 +22,6 @@ button {
   grid-column: 1 / span 4;
   background: #858694;
   text-align: right;
-  padding-right: 4px;
   padding: 1rem;
 }
 
