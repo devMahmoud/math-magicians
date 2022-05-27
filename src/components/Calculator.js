@@ -36,7 +36,7 @@ class Calculator extends Component {
         <button className="cell" onClick={this.calculateHandler}>7</button>
         <button className="cell" onClick={this.calculateHandler}>8</button>
         <button className="cell" onClick={this.calculateHandler}>9</button>
-        <button className="main-operation" onClick={this.calculateHandler}>X</button>
+        <button className="main-operation" onClick={this.calculateHandler}>x</button>
         <button className="cell" onClick={this.calculateHandler}>4</button>
         <button className="cell" onClick={this.calculateHandler}>5</button>
         <button className="cell" onClick={this.calculateHandler}>6</button>
