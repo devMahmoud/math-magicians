@@ -14,7 +14,9 @@ const Calculator = (props) => {
   };
   
   return (
-    <div className="grid-container">
+    <div className="calc-container">
+      <h3 className="calc-title">Let's do some math!</h3>
+      <div className="grid-container">
 
       <div className="result-field" text="0">
         { state.total }
@@ -42,6 +44,7 @@ const Calculator = (props) => {
       <button className="cell" onClick={calculateHandler}>.</button>
       <button className="main-operation" onClick={calculateHandler}>=</button>
 
+      </div>
     </div>
   );
 };
