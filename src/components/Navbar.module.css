@@ -8,6 +8,10 @@
 .link {
   text-decoration: none;
   padding: 0.5rem;
-  color: #000;
+  color: #57a4fe;
   margin: 0 5px;
+}
+
+.link:hover {
+  background: #94fe57;
 }

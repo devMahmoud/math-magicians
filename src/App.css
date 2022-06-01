@@ -1,19 +1,23 @@
 .App {
   text-align: center;
+  color: #57a4fe;
 }
 
 button {
   border: none;
+  font-weight: bolder;
 }
 
 main {
   text-align: left;
   padding-left: 1rem;
+  margin-top: 6rem;
 }
 
 .calc-container {
   display: flex;
   justify-content: space-between;
+  margin-top: 6rem;
 }
 
 .calc-title {
@@ -32,6 +36,7 @@ main {
 .cell {
   background: #e0e0e0;
   padding: 1rem;
+  font-weight: bolder;
 }
 
 .result-field {
@@ -39,6 +44,8 @@ main {
   background: #858694;
   text-align: right;
   padding: 1rem;
+  font-weight: bolder;
+  color: aqua;
 }
 
 .main-operation {
@@ -50,9 +57,14 @@ main {
   grid-column: 1 / span 2;
 }
 
-.quoteContainer {
+.quote-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   height: 80vh;
+}
+
+.quote {
+  font-size: larger;
+  font-weight: bolder;
 }

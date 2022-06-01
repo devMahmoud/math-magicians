@@ -1,10 +1,11 @@
-const Quote = () => {
-  const text = 'Hello from Quote';
-  return (
-    <div className="quoteContainer">
-      <p className="quote">{text}</p>
-    </div>
-  );
-};
+const Quote = () => (
+  <div className="quote-container">
+    <p className="quote">
+      Mathematics is not about numbers, equations, computations,
+      <br />
+      or algorithms: it is about understanding. -William Paul Thurston
+    </p>
+  </div>
+);
 
 export default Quote;
