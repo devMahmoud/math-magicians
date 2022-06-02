@@ -1,6 +1,9 @@
 {
   "name": "math-magicians",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.15.0"
+  },
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.18.0",
