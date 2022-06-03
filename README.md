@@ -19,7 +19,7 @@
 
 [Heroku Live Demo Link](https://mahmoud-math-magicians.herokuapp.com/)
 
-[Netlify Live Demo Link](https://frolicking-tulumba-761cc1.netlify.app/)
+[Netlify Live Demo Link](https://629a81c54dccb40008637229--frolicking-tulumba-761cc1.netlify.app/)
 
 
 ## Getting Started
