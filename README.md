@@ -9,34 +9,36 @@
 
 ## Built With
 
-- Major languages
+- Major languages<br/>
     HTML, CSS, JavaScript
-- Frameworks
+- Frameworks<br/>
     React
 - Technologies used
 
 ## Live Demo
 
-[Live Demo Link]()
+[Heroku Live Demo Link](https://mahmoud-math-magicians.herokuapp.com/)
+
+[Netlify Live Demo Link](https://frolicking-tulumba-761cc1.netlify.app/)
 
 
 ## Getting Started
-To have a local version of this project run this comman in your teminal
-    git clone https://github.com/devMahmoud/math-magicians.git
-Navigate to project folder by this command
-    cd math-magicians
+To have a local version of this project run this comman in your teminal<br/>
+    `git clone https://github.com/devMahmoud/math-magicians.git`
+Navigate to project folder by this command<br/>
+    `cd math-magicians`
     
 ### Prerequisites
 latest version of npm
 
 ### Install
-npm install
+`npm install`
 
 ### Run tests
-npm run test
+`npm run test`
 
 ### Deployment
-npm start
+`npm start`
 
 ## Authors
 
